@@ -171,6 +171,15 @@
     "stage": "进阶"
   },
   {
+    "category": "MCP 生态",
+    "name": "deed.page",
+    "url": "https://deed.page",
+    "summary_zh": "托管式 MCP 服务与 HTTP API，让 Claude Code、Codex 等 agent 把生成的 HTML 发布成公开 HTTPS 链接，可更新、回滚或删除。",
+    "language": "N/A",
+    "open_source": false,
+    "stage": "入门"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",
